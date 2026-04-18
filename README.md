@@ -6,7 +6,7 @@ This project automates the process of fetching financial realization data from t
 
 ## 🚀 Features
 
-- Fetches monthly financial realization report from Ozon API
+- Fetches monthly sales report from Ozon API
 - Automatically calculates previous month data
 - Flattens and structures nested JSON response
 - Converts data into a clean pandas DataFrame
@@ -30,7 +30,7 @@ This project automates the process of fetching financial realization data from t
 ## 📁 Project Workflow
 
 1. Connects to Ozon API  
-2. Retrieves financial report for previous month  
+2. Retrieves sales report for previous month  
 3. Processes and cleans data  
 4. Downloads existing SharePoint Excel file  
 5. Merges new + existing data  
