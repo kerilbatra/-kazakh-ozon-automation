@@ -1,5 +1,3 @@
-# Kazakh Ozon Automation
-
 This project automates the process of fetching financial realization data from the Ozon Seller API, processing it, and syncing it with a SharePoint Excel file.
 
 ---
